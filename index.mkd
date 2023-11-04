@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://youtube.com/playlist?list=PLxkEHjd_ca6czfZEqkBa_3Eis1Y_sk3sJ
+redirect_url: https://youtube.com/@ongedit
 ---
